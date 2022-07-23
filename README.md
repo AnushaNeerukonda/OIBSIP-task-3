@@ -1,1 +1,2 @@
 # OIBSIP-task-3
+Task-3 explains the working of the ATM Interface; it consists of various operations such as register, login, deposite, withdraw, check balance and, transfer amount. This program initially requests the user to register his account, by inputting the username, password, and valid account number registration process will be completed successfully and the user is redirected to the login page. User can login by giving valid username and password in 3 attempts, after a successful login user have the access to perform any actions.
